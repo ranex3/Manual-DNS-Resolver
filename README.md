@@ -18,3 +18,5 @@ python client.py 127.0.0.1 5200 www.example.com 5
 ```
 These commands will find answers to A queries for www.google.com and www.example.com, and timeout if no
 results are found after 5 seconds.
+
+The script run_client.sh can be used to run multiple queries if given a text file with urls.
